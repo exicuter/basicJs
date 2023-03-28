@@ -2,7 +2,7 @@
 const name = 'madhu';
 const age = 21;
 const rating =4.5;
-const isColl=true;
+const isColl=false;
 const x = null;
 const y = undefined;
 let z;
